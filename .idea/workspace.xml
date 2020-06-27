@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b1c8f7a0-756d-4c30-bd2d-891b7f2b614f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/classes/CoverPhoto.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classes/Database.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classes/DbTable.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classes/Session.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classes/User.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classes/UserPost.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/Login.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/Register.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/ResetPassword.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/Register.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/ResetPassword.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.htaccess" beforeDir="false" afterPath="$PROJECT_DIR$/.htaccess" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Routes.php" beforeDir="false" afterPath="$PROJECT_DIR$/Routes.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/Route.php" beforeDir="false" afterPath="$PROJECT_DIR$/classes/Route.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controllers/AboutUs.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/controllers/ContactUs.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/controllers/Controller.php" beforeDir="false" afterPath="$PROJECT_DIR$/controllers/Controller.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controllers/Index.php" beforeDir="false" afterPath="$PROJECT_DIR$/models/Home.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/AboutUs.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/Login.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/ContactUs.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/Index.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/Home.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1dg8pioX9BzzBfVVQcJjLMj9lHm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../login" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\mvc-semple\models" />
+      <recent name="C:\xampp\htdocs\mvc-semple\controllers" />
+      <recent name="C:\xampp\htdocs\mvc-semple" />
+      <recent name="C:\xampp\htdocs\mvc-semple\public" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b1c8f7a0-756d-4c30-bd2d-891b7f2b614f" name="Default Changelist" comment="" />
+      <created>1592835560197</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592835560197</updated>
+      <workItem from="1592835562397" duration="5655000" />
+      <workItem from="1592998731285" duration="36485000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="511" y="186" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1593182430138">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="511" y="186" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.738@0.0.1366.738" timestamp="1593182430138" />
+    <state x="463" y="124" key="FileChooserDialogImpl" timestamp="1593107671518">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="463" y="124" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1593107671518" />
+    <state x="492" y="92" key="NewPhpClassDialog" timestamp="1593256573783">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="492" y="92" key="NewPhpClassDialog/0.0.1366.738@0.0.1366.738" timestamp="1593256573783" />
+    <state x="517" y="292" key="NewPhpFileDialog" timestamp="1593256554077">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="517" y="292" key="NewPhpFileDialog/0.0.1366.738@0.0.1366.738" timestamp="1593256554077" />
+    <state x="184" y="14" key="SettingsEditor" timestamp="1593176443780">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="184" y="14" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1593176443780" />
+  </component>
+</project>
